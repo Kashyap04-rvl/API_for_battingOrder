@@ -24,7 +24,7 @@ Instead of relying strictly on flat lifetime statistics, this API dynamically we
 
 ---
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine and MongoDb compass for the database.
